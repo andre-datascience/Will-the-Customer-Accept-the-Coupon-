@@ -63,8 +63,10 @@ Y = 0: Did not accept the coupon (“No, I do not want the coupon”)
 
 
 Analysis and Findings
-The analysis will focus on identifying patterns and factors that influence coupon acceptance. Key areas of exploration include:
+The analysis will focus on identifying patterns and factors that influence coupon acceptance. Key areas of exploration includes
 
-Differences in acceptance rates based on user demographics (e.g., age, gender, marital status)
+Differences in acceptance rates based on user demographics (e.g., age, gender, marital status). For example in the final investigation portion I graph the acceptance rate of coupons by income level and can see the lower income brackets tend to accept coupons with higher rate and then I see a dip in acceptance for $62K -$99K Group having lower acceptance rate. 100k or more group surprisingly has just as large of an acceptance rate as the lower groups.
+
 Impact of contextual factors (e.g., weather, time of day, driving destination)
+
 Influence of coupon type and expiration time on acceptance rates
